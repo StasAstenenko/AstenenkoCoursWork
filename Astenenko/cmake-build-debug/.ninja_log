@@ -1,0 +1,21 @@
+# ninja log v5
+706	832	6773855354038516	Astenenko.exe	b90b993b8fbc18bf
+0	106	6773872936159543	build.ninja	f1ef6589a9badfe2
+8	323	6773651947415542	CMakeFiles/Astenenko.dir/src/controller/ZooParkController.cpp.obj	5ede3e3c0a73c74d
+7	45	6773627910773884	CMakeFiles/Astenenko.dir/src/model/source/Food.cpp.obj	213a5293d4e492aa
+2	706	6773855352789861	CMakeFiles/Astenenko.dir/main.cpp.obj	b674666aa1ef2dbd
+9	268	6773627912995065	CMakeFiles/Astenenko.dir/src/model/source/ZooPark.cpp.obj	84b137004ad00d00
+3	128	6769212027811976	CMakeFiles/Astenenko.dir/src/model/source/Animal.cpp.obj	774a1e0fbd6a7f97
+8	49	6773821083772925	CMakeFiles/Astenenko.dir/src/model/animal/Snake.cpp.obj	4fbf0bd85ea220e5
+9	49	6773821083772925	CMakeFiles/Astenenko.dir/src/model/animal/Bird.cpp.obj	e6694ee144185b40
+7	360	6773819107103085	CMakeFiles/Astenenko.dir/src/model/animal/Beast.cpp.obj	d1a32efd4415c35a
+8	220	6773627912501301	CMakeFiles/Astenenko.dir/src/model/animal/Animal.cpp.obj	93858d55096f2558
+0	9	0	clean	ab396d6172e6122
+2	749	6773876301338522	CMakeFiles/Astenenko.dir/main.cpp.obj	b674666aa1ef2dbd
+749	901	6773876302858520	Astenenko.exe	96ceaaa683230015
+2	930	6773877152032521	CMakeFiles/Astenenko.dir/main.cpp.obj	b674666aa1ef2dbd
+930	1059	6773877153318996	Astenenko.exe	96ceaaa683230015
+2	768	6774315018055628	CMakeFiles/Astenenko.dir/main.cpp.obj	b674666aa1ef2dbd
+768	996	6774315020344640	Astenenko.exe	96ceaaa683230015
+3	735	6774383130958027	CMakeFiles/Astenenko.dir/main.cpp.obj	b674666aa1ef2dbd
+735	874	6774383132357996	Astenenko.exe	96ceaaa683230015

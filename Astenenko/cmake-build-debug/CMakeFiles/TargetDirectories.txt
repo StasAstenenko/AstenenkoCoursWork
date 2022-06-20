@@ -1,0 +1,3 @@
+C:/Users/Artyom/CLionProjects/CourseWork/Astenenko/cmake-build-debug/CMakeFiles/Astenenko.dir
+C:/Users/Artyom/CLionProjects/CourseWork/Astenenko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Artyom/CLionProjects/CourseWork/Astenenko/cmake-build-debug/CMakeFiles/rebuild_cache.dir
